@@ -24,11 +24,11 @@ const Footer = () => {
         <div className="flex flex-col items-center lg:items-start">
           <h3 className="text-lg font-bold mb-2">GET IN TOUCH</h3>
           <p className="text-sm">+0-000-000-000</p>
-          <p className="text-sm">greatstackdev@gmail.com</p>
+          <p className="text-sm">gopikristipati@gmail.com</p>
         </div>
       </div>
       <div className="mt-8 text-center border-t border-gray-700 pt-4 text-sm">
-        <p>Copyright 2024 @ Greatstack.dev - All Right Reserved.</p>
+        <p>Copyright 2024 @ Gopi.dev - All Right Reserved.</p>
       </div>
     </footer>
   );
